@@ -1,0 +1,2 @@
+# yedis
+seorang pemula
